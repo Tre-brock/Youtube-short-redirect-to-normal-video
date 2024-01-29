@@ -1,5 +1,5 @@
 Redirect Youtube Shorts Videos to original Youtube video player, and hides short on everything except channel page.
-
+A lot of the code is borrowed from another simaler project
 
 
 
