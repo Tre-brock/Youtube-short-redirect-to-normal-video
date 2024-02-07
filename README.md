@@ -1,7 +1,7 @@
 Redirect Youtube Shorts Videos to original Youtube video player, and hides short on everything except channel page.
-A lot of the code is borrowed from another simaler project
 
-https://addons.mozilla.org/en-US/android/addon/yt-short-redirect-normal-video/
+
+https://addons.mozilla.org/en-US/addon/yt-short-redirect-normal-video/
 
 
 ![icon-96](https://github.com/Tre-brock/Youtube-short-redirect-to-normal-video/assets/152460754/13ed107e-da63-4863-922c-418476a6e2d3)
