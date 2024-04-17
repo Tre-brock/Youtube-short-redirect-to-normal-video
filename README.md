@@ -1,3 +1,5 @@
+# Moved to: https://notabug.org/Tre_brock/Youtube-short-redirect-to-normal-video
+<br>
 Redirect Youtube Shorts Videos to original Youtube video player, and hides short on everything except channel page.
 
 
